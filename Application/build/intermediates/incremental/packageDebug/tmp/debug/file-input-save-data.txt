@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jul 07 14:19:29 KST 2023
+0.base=/Users/bt/android project/wearos0707_notification_app/Application/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX

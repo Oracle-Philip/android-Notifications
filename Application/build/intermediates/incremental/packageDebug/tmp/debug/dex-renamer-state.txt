@@ -1,0 +1,4 @@
+#Fri Jul 07 14:19:29 KST 2023
+base.0=/Users/bt/android project/wearos0707_notification_app/Application/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

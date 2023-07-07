@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Jul 07 14:20:09 KST 2023
+3.set=DEX
+3.path=classes.dex
+2.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/2
+0.path=classes.dex
+5.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/4
+0.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/1
+3.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/3
+5.path=classes.dex
+3.baseType=DIRECTORY
+1.path=classes.dex
+4.set=DEX
+0.baseType=DIRECTORY
+0.set=DEX
+5.baseType=DIRECTORY
+4.path=classes.dex
+count=6
+5.set=DEX
+1.set=DEX
+2.path=classes.dex
+2.baseType=DIRECTORY
+2.set=DEX
+1.baseType=DIRECTORY
+4.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/0
+1.base=/Users/bt/android project/wearos0707_notification_app/Wearable/build/intermediates/transforms/dexMerger/debug/5
+4.baseType=DIRECTORY
